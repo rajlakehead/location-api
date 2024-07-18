@@ -60,6 +60,3 @@ Example request:
 curl "http://localhost:5000/api/users?latitude=-23.5505&longitude=-46.6333&page=1&limit=10"
 ```
 
-## License
-
-This project is licensed under the MIT License.
